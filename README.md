@@ -1,2 +1,2 @@
 # crud-go-example
- Example of a REST API in go 
+ Example of a REST API in GO 
